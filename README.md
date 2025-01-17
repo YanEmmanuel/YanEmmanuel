@@ -29,6 +29,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções completas e inov
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
 <code><img height="32" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker"/></code>
 <code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux"/></code>
 
 
 ---
