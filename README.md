@@ -1,22 +1,22 @@
-<h1 align="center">😁 Olá, meu nome é Yan Emmanuel!</h1>
+<h1 align="center">😁 Hello, my name is Yan Emmanuel!</h1>
 
-Sou um desenvolvedor Full Stack apaixonado por criar soluções completas e inovadoras para aplicações web. Tenho ampla experiência em Web Scraping, Back-End e Front-End, o que me permite desenvolver desde a coleta de dados automatizada até interfaces dinâmicas e intuitivas. Meu foco principal está no uso de tecnologias modernas como Vue.js, Laravel, Inertia.js e Python, garantindo performance, funcionalidade e um design agradável. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente, colaborando em projetos que fazem a diferença.
+I am a Full Stack developer passionate about creating complete and innovative solutions for web applications. I have extensive experience in Web Scraping, Back-End, and Front-End, which allows me to develop everything from automated data collection to dynamic and intuitive interfaces. My main focus is on using modern technologies such as Vue.js, Laravel, Inertia.js, and Python, ensuring performance, functionality, and an appealing design. I am always looking for new challenges and opportunities to learn and grow professionally, collaborating on projects that make a difference.
 
-💬 Se tiver alguma dúvida, sugestão ou quiser trocar ideias sobre desenvolvimento, sinta-se à vontade para entrar em contato comigo! Estou sempre aberto a conversar e colaborar.
+💬 If you have any questions, suggestions, or want to exchange ideas about development, feel free to contact me! I am always open to chatting and collaborating.
 
-## 📬 Você pode me encontrar nas redes sociais abaixo:
+## 📬 You can find me on the social networks below:
 
 <a href="https://discord.com/users/1328121187116781679" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
-<a href="www.linkedin.com/in/yan-emmanuel" target="_blank">
+<a href="https://www.linkedin.com/in/yan-emmanuel" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
