@@ -1,41 +1,75 @@
-<h1 align="center">😁 Hello, my name is Yan Emmanuel!</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Yan%20Emmanuel&fontAlign=50&fontAlignY=35&fontSize=54&desc=Mid-level%20Full-Stack%20Engineer%20%7C%20C%23%20%2F%20.NET%20%7C%20Flutter%20%7C%20Vue%20%7C%20Linux&descAlign=50&descAlignY=62&descSize=18&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn&fontColor=ffffff" />
+</p>
 
-I am a Full Stack developer passionate about creating complete and innovative solutions for web applications. I have extensive experience in Web Scraping, Back-End, and Front-End, which allows me to develop everything from automated data collection to dynamic and intuitive interfaces. My main focus is on using modern technologies such as Vue.js, Laravel, Inertia.js, and Python, ensuring performance, functionality, and an appealing design. I am always looking for new challenges and opportunities to learn and grow professionally, collaborating on projects that make a difference.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&center=true&vCenter=true&width=860&lines=SCALABLE+BACKENDS+%E2%80%A2+HIGH-PERFORMANCE+APIs+%E2%80%A2+CLEAN+ARCHITECTURE;C%23+%2F+.NET+SPECIALIST+%E2%80%A2+Flutter+%E2%80%A2+Vue+%E2%80%A2+Linux-first+workflow;DATABASE+ENGINEERING+%E2%80%A2+Caching+%E2%80%A2+CI%2FCD+%E2%80%A2+Pragmatic+delivery" />
+</div>
 
-💬 If you have any questions, suggestions, or want to exchange ideas about development, feel free to contact me! I am always open to chatting and collaborating.
+<div align="center">
+  <a href="https://discord.com/users/1328121187116781679" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yan-emmanuel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-## 📬 You can find me on the social networks below:
-
-<a href="https://discord.com/users/1328121187116781679" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-<a href="https://www.linkedin.com/in/yan-emmanuel" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-
----
-
-## 🚀 My Skills
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js"/></code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel"/></code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
-<code><img height="32" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker"/></code>
-<code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux"/></code>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YanEmmanuel&style=for-the-badge&color=70a5fd" />
+  <img src="https://img.shields.io/github/followers/YanEmmanuel?style=for-the-badge&label=Followers&color=bf91f3&labelColor=0b1220&logo=github" />
+  <img src="https://img.shields.io/github/stars/YanEmmanuel?style=for-the-badge&label=Stars&color=9ece6a&labelColor=0b1220&logo=github" />
+</div>
 
 ---
 
-## ⭐ GitHub Stats
+## Expertise
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=YanEmmanuel&hide=html&layout=compact&theme=tokyonight)](https://github.com/YanEmmanuel)
+I’m a **mid-level Full Stack Specialist** focused on **production-grade systems**: **SCALABLE APIs**, **HIGH-PERFORMANCE backends**, and **polished user experiences**.
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=YanEmmanuel&theme=tokyonight)](https://github.com/YanEmmanuel)
+- **C# / .NET Specialist:** REST APIs, integrations, background jobs, caching, clean architecture
+- **Flutter + Vue:** responsive UI, maintainable state, component-driven development
+- **Linux-first:** automation, tooling, developer experience, reproducible environments
+- **Database Engineering:** PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, Redis
+
+---
+
+## Core Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,vue,ts,js,python,docker,linux,git,githubactions,postgres,mysql,sqlite,mongodb,redis&perline=9" />
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YanEmmanuel&theme=tokyo-night&hide_border=true&radius=12" />
+</div>
+
+---
+
+## Summary Cards
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanEmmanuel&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YanEmmanuel&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YanEmmanuel&theme=tokyonight&utcOffset=-3" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YanEmmanuel&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YanEmmanuel&theme=tokyonight" />
+</div>
+
+---
+
+## Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
